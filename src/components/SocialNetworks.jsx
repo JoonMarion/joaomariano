@@ -16,7 +16,7 @@ const socialNetworks = [
     {
         name: 'instagram',
         icon: <FaInstagram />,
-        URL: 'https://www.instagram.com/jerj.tsx/',
+        URL: 'https://www.instagram.com/jerj.py/',
     },
 ];
 
